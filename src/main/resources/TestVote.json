@@ -1,0 +1,51 @@
+[ {
+  "name" : "TestTopic0.2582483081259811",
+  "creatorName" : "username",
+  "votes" : [ ]
+}, {
+  "name" : "TestTopic1",
+  "creatorName" : "username",
+  "votes" : [ ]
+}, {
+  "name" : "TestTopic0.5567465211901989",
+  "creatorName" : "username",
+  "votes" : [ ]
+}, {
+  "name" : "TestTopic0.1323324561768271",
+  "creatorName" : "username",
+  "votes" : [ ]
+}, {
+  "name" : "CreateVoteTopic",
+  "creatorName" : "username",
+  "votes" : [ {
+    "name" : "ForTestCommand",
+    "variants" : {
+      "Work" : 1,
+      "NotWork" : 0
+    }
+  }, {
+    "name" : "ForTestCommand",
+    "variants" : {
+      "Work" : 0,
+      "NotWork" : 0
+    }
+  }, {
+    "name" : "ForTestCommand",
+    "variants" : {
+      "Work" : 0,
+      "NotWork" : 0
+    }
+  }, {
+    "name" : "ForTestCommand",
+    "variants" : {
+      "Work" : 0,
+      "NotWork" : 0
+    }
+  }, {
+    "name" : "ForTestCommand",
+    "variants" : {
+      "Work" : 0,
+      "NotWork" : 0
+    }
+  } ]
+} ]

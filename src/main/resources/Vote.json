@@ -1,0 +1,62 @@
+[ {
+  "name" : "Topic1",
+  "creatorName" : "Creator1",
+  "votes" : [ {
+    "name" : "Vote1",
+    "variants" : {
+      "OptionA" : 13,
+      "OptionB" : 20
+    }
+  }, {
+    "name" : "Vote3",
+    "variants" : {
+      "Option3" : 0,
+      "Option2" : 0,
+      "Option1" : 0
+    }
+  }, {
+    "name" : "Vote100",
+    "variants" : {
+      "Option4" : 0,
+      "Option3" : 0,
+      "Option2" : 0,
+      "Option1" : 0
+    }
+  }, {
+    "name" : "Vote50",
+    "variants" : {
+      "Option4" : 0,
+      "Option3" : 0,
+      "Option2" : 0,
+      "Option1" : 0
+    }
+  }, {
+    "name" : "Vote98",
+    "variants" : {
+      "Option3" : 0,
+      "Option2" : 0,
+      "Option1" : 0
+    }
+  } ]
+}, {
+  "name" : "A",
+  "creatorName" : "",
+  "votes" : [ ]
+}, {
+  "name" : "Topic2",
+  "creatorName" : "Creator2",
+  "votes" : [ {
+    "name" : "Vote2",
+    "variants" : {
+      "Option C" : 30,
+      "Option D" : 40
+    }
+  }, {
+    "name" : "Vote2",
+    "variants" : {
+      "Option3" : 0,
+      "Option2" : 0,
+      "Option1" : 0
+    }
+  } ]
+} ]
